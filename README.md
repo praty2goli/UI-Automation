@@ -1,4 +1,4 @@
-# demo-ui-web
+# UI-Automation
 # To run please execute following command
 
 mvn clean verify
