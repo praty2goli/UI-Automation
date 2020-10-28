@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="To validate DemoBlaze Website by adding sony viao and dell products" skipped="0" tests="1" time="13.87" timestamp="2020-10-28 06:05:16"><testcase name="To validate Functionality by adding sony viao and dell products to cart"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 84&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ADMIN-PC', ip: '192.168.1.39', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_271'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x00ED87E3+2852835]&#10;&#9;Ordinal0 [0x00DC5BB1+1727409]&#10;&#9;Ordinal0 [0x00C9E4B9+517305]&#10;&#9;Ordinal0 [0x00C30BA0+68512]&#10;&#9;Ordinal0 [0x00C2D3A0+54176]&#10;&#9;Ordinal0 [0x00C4D9F7+186871]&#10;&#9;Ordinal0 [0x00C4D7FD+186365]&#10;&#9;Ordinal0 [0x00C4B70B+177931]&#10;&#9;Ordinal0 [0x00C32584+75140]&#10;&#9;Ordinal0 [0x00C33650+79440]&#10;&#9;Ordinal0 [0x00C335E9+79337]&#10;&#9;Ordinal0 [0x00DDAD5C+1813852]&#10;&#9;GetHandleVerifier [0x00FFC616+1075574]&#10;&#9;GetHandleVerifier [0x00FFC367+1074887]&#10;&#9;GetHandleVerifier [0x01007497+1120247]&#10;&#9;GetHandleVerifier [0x00FFCC16+1077110]&#10;&#9;Ordinal0 [0x00DD3206+1782278]&#10;&#9;Ordinal0 [0x00DDC3BB+1819579]&#10;&#9;Ordinal0 [0x00DDC523+1819939]&#10;&#9;Ordinal0 [0x00DF2B45+1911621]&#10;&#9;BaseThreadInitThunk [0x754FEF8C+18]&#10;&#9;RtlInitializeExceptionChain [0x7721367A+239]&#10;&#9;RtlInitializeExceptionChain [0x7721364D+194]&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 84
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.1.39', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_271'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00ED87E3+2852835]
+	Ordinal0 [0x00DC5BB1+1727409]
+	Ordinal0 [0x00C9E4B9+517305]
+	Ordinal0 [0x00C30BA0+68512]
+	Ordinal0 [0x00C2D3A0+54176]
+	Ordinal0 [0x00C4D9F7+186871]
+	Ordinal0 [0x00C4D7FD+186365]
+	Ordinal0 [0x00C4B70B+177931]
+	Ordinal0 [0x00C32584+75140]
+	Ordinal0 [0x00C33650+79440]
+	Ordinal0 [0x00C335E9+79337]
+	Ordinal0 [0x00DDAD5C+1813852]
+	GetHandleVerifier [0x00FFC616+1075574]
+	GetHandleVerifier [0x00FFC367+1074887]
+	GetHandleVerifier [0x01007497+1120247]
+	GetHandleVerifier [0x00FFCC16+1077110]
+	Ordinal0 [0x00DD3206+1782278]
+	Ordinal0 [0x00DDC3BB+1819579]
+	Ordinal0 [0x00DDC523+1819939]
+	Ordinal0 [0x00DF2B45+1911621]
+	BaseThreadInitThunk [0x754FEF8C+18]
+	RtlInitializeExceptionChain [0x7721367A+239]
+	RtlInitializeExceptionChain [0x7721364D+194]
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 84
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ADMIN-PC', ip: '192.168.1.39', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_271'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00ED87E3+2852835]
+	Ordinal0 [0x00DC5BB1+1727409]
+	Ordinal0 [0x00C9E4B9+517305]
+	Ordinal0 [0x00C30BA0+68512]
+	Ordinal0 [0x00C2D3A0+54176]
+	Ordinal0 [0x00C4D9F7+186871]
+	Ordinal0 [0x00C4D7FD+186365]
+	Ordinal0 [0x00C4B70B+177931]
+	Ordinal0 [0x00C32584+75140]
+	Ordinal0 [0x00C33650+79440]
+	Ordinal0 [0x00C335E9+79337]
+	Ordinal0 [0x00DDAD5C+1813852]
+	GetHandleVerifier [0x00FFC616+1075574]
+	GetHandleVerifier [0x00FFC367+1074887]
+	GetHandleVerifier [0x01007497+1120247]
+	GetHandleVerifier [0x00FFCC16+1077110]
+	Ordinal0 [0x00DD3206+1782278]
+	Ordinal0 [0x00DDC3BB+1819579]
+	Ordinal0 [0x00DDC523+1819939]
+	Ordinal0 [0x00DF2B45+1911621]
+	BaseThreadInitThunk [0x754FEF8C+18]
+	RtlInitializeExceptionChain [0x7721367A+239]
+	RtlInitializeExceptionChain [0x7721364D+194]
+). See below for more details.&#13;
+com.demo.steps.CommonStepDefs.openWebPage(CommonStepDefs.java:17)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:467)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)&#13;
+</system-err></testcase></testsuite>
